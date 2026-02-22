@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+  <channel>
+    <title>Noticies Educació</title>
+    <link>https://iesllompart.cat/</link>
+    <description>Cenytre d'Educació</description>
+    <language>ca</language>
+
+    <item>
+      <title>Nova aula TECA</title>
+      <description>La nova aula ha estat equipada amb tecnologia avançada i equipament especialitzat, com sistemes de realitat virtual, equipament audiovisual, impressió 3D, tecnologia làser, impressió UV</description>
+      <link>https://iesllompart.cat/noticies/el-centre-estrena-la-nova-aula-ateca-un-espai-dinnovacio-i-tecnologia-aplicada/</link>
+      <pubDate>desembre, 17 2025</pubDate>
+    </item>
+
+    <item>
+      <title>Ampliació de matricula</title>
+      <description>Us informam que s’ha obert el període de matrícula per als certificats professionals del curs 2025/2026.</description>
+      <link>https://iesllompart.cat/noticies/oberta-la-matricula-dels-certificats-professionals-2025-2026/</link>
+      <pubDate>octubre, 27 2025</pubDate>
+    </item>
+
+  </channel>
+
+</rss>
